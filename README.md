@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Javier – Navegante y desarrollador de herramientas náuticas</h1>
 
-<!--
-**nauticaweb/nauticaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Capitán de Yate con pasión por la navegación astronómica y la enseñanza náutica.<br>
+  He creado aplicaciones web útiles para navegantes, alumnos y profesionales del mar.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+### [Calculadoras para Navegación](https://github.com/nauticaweb/Calculadoras)
+Aplicación en Streamlit con múltiples herramientas náuticas:
+- Cálculo de rumbos y distancias loxodrómicas y ortodrómicas
+- Seis calculadoras de navegación astronómica
+- Interfaz clara, intuitiva y orientada a exámenes y navegación real
+
+### [Rectas de Altura (ra.app)](https://ra-nauticaweb.streamlit.app/)
+Calculadora astronómica para obtener la posición observada a partir de dos rectas de altura. 
+- Ideal para prácticas de Capitán de Yate, Patrón de Altura, oficiales y navegantes.
+- Permite operar sin GPS, solo con sextante y almanaque.
+
+---
+
+## Tecnologías que uso
+
+- **Python**
+- **Streamlit**
+- **Matplotlib**
+- **Git y GitHub**
+
+---
+
+## Contacto
+
+- **Landing page**: [nauticaweb.carrd.co](https://nauticaweb.carrd.co)
+- **Email**: [tu-email@email.com] *(actualízalo si quieres mostrarlo)*
+- **LinkedIn**: *(opcional, si quieres agregarlo)*
+
+---
+
+> “Navegar es mucho más que desplazarse: es comprender el mar, el cielo y tu propia posición.”
