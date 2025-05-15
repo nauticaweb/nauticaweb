@@ -33,8 +33,8 @@ Calculadora astronómica para obtener la posición observada a partir de dos rec
 
 ## Contacto
 
-- **youtube**: [nauticaweb.carrd.co](https://www.youtube.com/@DRUlDA/videos)
-- **Email**: [el_druida@hotmail.com] 
+- **youtube**: [Mis videos en Youtube](https://www.youtube.com/@DRUlDA/videos)
+- **Email**: [email](el_druida@hotmail.com)
 - **LinkedIn**: *([linkedin](https://www.linkedin.com/in/javier-hern%C3%A1ndez-26190669/))*
 
 ---
