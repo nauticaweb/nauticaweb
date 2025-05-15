@@ -15,7 +15,7 @@ Aplicación en Streamlit con múltiples herramientas náuticas:
 - Seis calculadoras de navegación astronómica
 - Interfaz clara, intuitiva y orientada a exámenes y navegación real
 
-### [Rectas de Altura ](https://github.com/nauticaweb/Posicionamiento))
+### [Rectas de Altura ](https://github.com/nauticaweb/Posicionamiento)
 Calculadora astronómica para obtener la posición observada a partir de dos rectas de altura. 
 - Ideal para prácticas de Capitán de Yate, Patrón de Altura, oficiales y navegantes.
 - Permite operar sin GPS, solo con sextante y almanaque.
@@ -33,8 +33,8 @@ Calculadora astronómica para obtener la posición observada a partir de dos rec
 
 ## Contacto
 
-- **linkedin page**: [nauticaweb.carrd.co](https://www.linkedin.com/in/javier-hern%C3%A1ndez-26190669/)
-- **Email**: [tu-email@email.com] *(actualízalo si quieres mostrarlo)*
+- **youtube**: [nauticaweb.carrd.co](https://www.youtube.com/@DRUlDA/videos)
+- **Email**: [el_druida@hotmail.com] 
 - **LinkedIn**: *([linkedin](https://www.linkedin.com/in/javier-hern%C3%A1ndez-26190669/))*
 
 ---
