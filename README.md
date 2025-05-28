@@ -32,7 +32,7 @@ Calculadora astronómica para obtener la posición observada a partir de dos rec
 ## Contacto
 
 - **Youtube**: [Mis videos en Youtube](https://www.youtube.com/@DRUlDA/videos)  
-- **Email**: [el_druida@hotmail.com](mailto:el_druida@hotmail.com)  
+- **Email**: [   @   ](mailto:el_druida@hotmail.com)  
 - **LinkedIn**: [linkedin](https://www.linkedin.com/in/javier-hern%C3%A1ndez-26190669/)
 
 ---
