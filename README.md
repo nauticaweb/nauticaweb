@@ -4,7 +4,6 @@ Capitán de Yate con pasión por la navegación astronómica y la enseñanza ná
 He creado aplicaciones web útiles para navegantes, alumnos y profesionales del mar.
 
 ---
----
 
 ## Proyectos destacados
 
