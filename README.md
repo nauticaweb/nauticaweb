@@ -1,4 +1,5 @@
-# Hola, soy Javier – Navegante y desarrollador   de herramientas náuticas
+# Hola, soy Javier – Navegante y desarrollador  
+de herramientas náuticas
 
 Capitán de Yate con pasión por la navegación astronómica y la enseñanza náutica.  
 He creado aplicaciones web útiles para navegantes, alumnos y profesionales del mar.
